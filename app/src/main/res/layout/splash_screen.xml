@@ -10,13 +10,14 @@
         android:orientation="horizontal"
         android:gravity="center_horizontal"
         android:layout_width="match_parent"
-        android:layout_marginTop="100px"
-        android:layout_height="match_parent">
+
+        android:background="@drawable/main_screen_bg"
+        android:layout_height="65mm">
 
         <ImageView
-            android:layout_gravity="center_horizontal"
-            android:background="@drawable/bg"
 
+            android:background="@drawable/bg"
+            android:layout_marginTop="100px"
             android:layout_width="50mm"
             android:layout_height="51mm"/>
 
