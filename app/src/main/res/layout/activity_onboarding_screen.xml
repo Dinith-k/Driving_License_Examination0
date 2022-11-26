@@ -63,7 +63,7 @@
             android:layout_width="match_parent">
 
             <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/back"
+                android:id="@+id/get_started"
                 android:layout_width="150dp"
                 android:padding="2dp"
                 android:text="Get started"
